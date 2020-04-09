@@ -1,2 +1,3 @@
-# my_first
-My first rep
+# My first repository on GitHub!
+
+I dont't know  yet what I'll do with it...
